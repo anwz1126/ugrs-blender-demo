@@ -1,9 +1,10 @@
 > **Note**
 >
 > This repository currently hosts temporary documentation and reference materials.
+
 # Blender Real-time 4D Gaussian Splatting Demo
 
-👉 **Download the demo from Blender Demo Files**
+👉 [**Download the demo from Blender Demo Files**](https://www.blender.org/download/demo-files/#geometry-nodes)
 
 This project runs on all Blender-supported platforms — Windows, macOS, Linux, and iPad.
 
@@ -22,15 +23,16 @@ Open the `.blend` file in **Blender 5.0+**, switch to **Render View**, and play 
 ## Scenes
 
 ### Nunchucks (Eevee)
-
+![Nunchucks](assets/images/Nunchucks.jpg)
 - Default scene when opening the file
 - Real-time 4DGS bullet-time effect rendered entirely in Eevee
 
 ### The Cat (Cycles)
-
+![Nunchucks](assets/images/Cat.jpg)
 - Switch scene from the upper-right scene selector
 - Enter Render View to experience ray-traced Gaussian rendering in an infinite mirror environment
 
+![Nunchucks](assets/images/scene.jpg)
 ---
 
 ## Implementation Notes
@@ -44,7 +46,7 @@ This implementation differs from standard Gaussian Splatting pipelines.
 **Recommended usage**
 - Eevee: Point Cloud mode (best real-time performance)
 - Cycles: Mesh mode inside the node group
-
+![Nunchucks](assets/images/node0.jpg)
 ---
 
 ## Underlying System
@@ -77,5 +79,4 @@ Upcoming features:
 
 ---
 
-© 2025 Mediastorm & 4DV.ai  
 Released under the **Creative Commons Attribution (CC-BY 4.0)** License.
