@@ -2,8 +2,6 @@
 >
 > This repository currently hosts temporary documentation and reference materials.
 
-# Blender Real-time 4D Gaussian Splatting Demo
-
 👉 [**Download the demo from Blender Demo Files**](https://www.blender.org/download/demo-files/#geometry-nodes)
 
 This project runs on all Blender-supported platforms — Windows, macOS, Linux, and iPad.
@@ -74,8 +72,8 @@ Upcoming features:
 
 ## Links
 
-- 🎬 RTL YouTube Replay  
-- 🔗 SIGGRAPH 2025 RTL Showcase  
+- [🎬 RTL YouTube Replay](https://www.youtube.com/watch?v=ucRukZM0d1s&t=4230s)  
+- [🔗 SIGGRAPH 2025 RTL Showcase](https://4dv.ai/siggraph)  
 
 ---
 
